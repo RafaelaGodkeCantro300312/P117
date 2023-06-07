@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(149, 227, 248);
+}
+#pontos, #tempo {
+    font-size:20px;
+    margin-left:100px;
+    margin-right:100px;
+}
+#tempo {
+    float:right;
+}
+#p {
+    color:rgb(8, 28, 179);
+}
